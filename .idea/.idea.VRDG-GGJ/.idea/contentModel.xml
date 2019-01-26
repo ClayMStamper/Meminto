@@ -12,9 +12,7 @@
             <e p="Vector3Extensions.cs" t="Include" />
           </e>
           <e p="GetInput.cs" t="Include" />
-          <e p="Jump.cs" t="Include" />
           <e p="PlayerMove.cs" t="Include" />
-          <e p="Run.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
